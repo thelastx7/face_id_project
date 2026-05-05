@@ -33,4 +33,6 @@ Le projet complet est disponible sur GitHub et packagé dans l'archive `face_rec
 
 ---
 **Développé par Soulaimane Charkaoui**
+
+
 *Étudiant en Cybersécurité passionné par l'automatisation et le développement d'outils de sécurité via Python.*
